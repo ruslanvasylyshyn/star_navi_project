@@ -1,4 +1,5 @@
 # star_navi_project
+[DEMO LINK](https://ruslanvasylyshyn.github.io/star_navi_project/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
